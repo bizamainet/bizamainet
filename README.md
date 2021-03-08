@@ -121,7 +121,7 @@ To uninstall the EOSIO built/installed binaries and dependencies, run:
 1. [StackExchange for Q&A](https://eosio.stackexchange.com/)
 1. [Community Telegram Group](https://t.me/EOSProject)
 1. [Developer Telegram Group](https://t.me/joinchat/EaEnSUPktgfoI-XPfMYtcQ)
-1. [White Paper](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
+1. [White Paper](https://github.com/bizamainet/Documentation/blob/master/Whitepaper_ENG.pdf)
 1. [Roadmap](https://github.com/EOSIO/Documentation/blob/master/Roadmap.md)
 
 <a name="gettingstarted"></a>
