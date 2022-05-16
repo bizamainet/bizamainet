@@ -73,3 +73,9 @@ To uninstall the EOSIO built/installed binaries and dependencies, run:
 ```sh
 ./scripts/eosio_uninstall.sh
 ```
+
+## BIZA Developers Documentation
+bizamainet provides a guide to:
+[BizAuto developers](https://developers.bizauto.io)
+1. [Getting Started](https://developers.bizauto.io/getting-started-guides)
+2. [Smart Contract Guides](https://developers.bizauto.io/smart-contract-guides)
